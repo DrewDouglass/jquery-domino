@@ -8,7 +8,7 @@ Include the jquery.domino.js script
 `<script src="jquery.domino.js"></script>
 
 Call the `domino` function on your selectors.
-`$('.items').domino();
+`$('.items').domino();`
 
 ##Options
 
