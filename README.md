@@ -17,4 +17,4 @@ Currently only one option is available, the delay between items showing. Default
 `$('.items').domino({
 	//change to 1 second
 	speed: 1000
-});
+});`
